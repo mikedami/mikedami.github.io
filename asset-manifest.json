@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/home/static/css/main.fe927caf.css",
+    "main.js": "/home/static/js/main.c71dd1c9.js",
+    "static/js/787.4b24f717.chunk.js": "/home/static/js/787.4b24f717.chunk.js",
+    "static/media/resume.pdf": "/home/static/media/resume.246401cf16e5f589bff5.pdf",
+    "static/media/mikeDamiano.JPG": "/home/static/media/mikeDamiano.bd3ea06c5fdd946b0db9.JPG",
+    "static/media/tappedin.png": "/home/static/media/tappedin.a44254a2a30c04a39d5f.png",
+    "static/media/remix.png": "/home/static/media/remix.0e9fd1356b47d4c9df9e.png",
+    "index.html": "/home/index.html",
+    "main.fe927caf.css.map": "/home/static/css/main.fe927caf.css.map",
+    "main.c71dd1c9.js.map": "/home/static/js/main.c71dd1c9.js.map",
+    "787.4b24f717.chunk.js.map": "/home/static/js/787.4b24f717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fe927caf.css",
+    "static/js/main.c71dd1c9.js"
+  ]
+}
